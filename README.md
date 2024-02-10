@@ -2,3 +2,5 @@ The simplest circuit for transmitting data over a power line between two Arduino
 The SoftwareSerial protocol is used to transfer data.
 Signal transmission and power go through pin D11 on both Arduinos.
 ![image](https://github.com/14types/simplest-power-line-communication-between-Arduinos/assets/34601503/6eef04e4-26cd-45de-8480-dcc5eaaff5a7)
+
+https://www.youtube.com/watch?v=aywDoc-Y9T4
