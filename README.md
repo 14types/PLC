@@ -10,4 +10,6 @@ For 1 second, a high signal is sent to D11 on the first Arduino to power the sec
 
 Next, 0 is applied to D11 and sending and receiving data through the serial starts
 
+A session for sending and receiving data takes about 10ms, during which time the capacitor manages to power the second Arduino and it does not turn off
+
 https://www.youtube.com/watch?v=aywDoc-Y9T4
